@@ -66,7 +66,7 @@ public class Practice01
     public static void main(String[] args) 
     {
 	   Practice01 p1= new Practice01();
-	   //p1.Smallest();
+	   p1.Smallest();
 	   p1.Vowels();
 	   
 	}
