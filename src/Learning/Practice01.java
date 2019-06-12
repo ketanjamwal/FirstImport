@@ -197,17 +197,17 @@ public class Practice01
 public static void main(String[] args) 
 {
 	Practice01 p=new Practice01();
-	p.print();
-	p.Add();
-	p.Divide();
-	p.Operation();
-	p.Product();
-	p.All_Operation();
-	p.Table();
- 	p.Circle();
-	p.Average();
-	p.US_flag();
-	p.Swap();
-	p.Face();
+	//p.print();
+	//p.Add();
+	//p.Divide();
+	//p.Operation();
+	//p.Product();
+	//p.All_Operation();
+	//p.Table();
+ 	//p.Circle();
+	//p.Average();
+	//p.US_flag();
+	//p.Swap();
+	//p.Face();
 }
 }
