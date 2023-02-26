@@ -11,7 +11,7 @@ public class Practice01
 		System.out.print("Enter Temp in Farenhite: \n");
 		double f=input.nextDouble();
 		double deg=(( 5 *(f - 32.0)) / 9.0);
-		System.out.println(f+"Farn temp in Degree Celsius = "+deg);
+		System.out.println(f+" Farn temp in Degree Celsius = "+deg);
 	}
 
 	// Write a Java program that reads a number in inches, converts it to meters. 
