@@ -102,7 +102,7 @@ public class Practice01
 	public static void main(String[] args) 
 	{
 		Practice01 p1= new Practice01();
-		//p1.Farn_To_Deg();
+		p1.Farn_To_Deg();
 		//p1.inch_mtr();
 		//p1.Time_conv();
 		//p1.BMI();
