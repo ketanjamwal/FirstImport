@@ -124,11 +124,11 @@ public class Java_20_qs
 	public static void main(String[] args) 
 	{
 		Java_20_qs java20=new Java_20_qs();
-		//java20.Reverse1();
-		//java20.Reverse2();
+		java20.Reverse1();
+		java20.Reverse2();
 		
-		//java20.prime();
-		//java20.Palindrome();
+		java20.prime();
+		java20.Palindrome();
 		java20.Fibonacci();
 	}
 
